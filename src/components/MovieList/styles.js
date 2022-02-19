@@ -6,7 +6,8 @@ export const MovieListContainer = styled.div`
   max-width: 1080px;
   padding: 5% 10px;
   min-height: 100vh;
-  background-color: whitesmoke;
+  background-color: lightblue;
+  position: relative;
 
 `;
 
