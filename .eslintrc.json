@@ -1,3 +1,4 @@
+/*eslint linebreak-style: ["error", "windows"]*/
 {
     "env": {
         "browser": true,
@@ -18,5 +19,6 @@
         "react"
     ],
     "rules": {
+        "linebreak-style": 0
     }
 }
